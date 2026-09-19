@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 2.x Prompt Studio"
+  short_description: "Director-grade Chinese prompts for Seedance 2.x"
+  default_prompt: "Use $seedance-2x-prompt-zh to write a production-ready Chinese Seedance prompt with reference binding, observable acting, blocking, camera continuity, and product fidelity."
